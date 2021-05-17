@@ -16,8 +16,7 @@ class CreateAccount
     {       
         BankAccount created = new BankAccount();
         
-        Console.Write("Enter the account number   : ");
-        long number = long.Parse(Console.ReadLine());        
+            
 
         Console.Write("Enter the account balance! : ");
         decimal balance = decimal.Parse(Console.ReadLine());
@@ -25,7 +24,7 @@ class CreateAccount
         //created.accNo = number;
         //created.accBal = balance;
         //created.accType = AccountType.Checking;
-        created.Populate(number, balance);
+        created.Populate(balance);
         
         return created;
     }

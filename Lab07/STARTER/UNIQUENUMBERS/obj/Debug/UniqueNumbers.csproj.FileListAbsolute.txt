@@ -1,0 +1,6 @@
+C:\install folder\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+C:\install folder\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+C:\install folder\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csprojAssemblyReference.cache
+C:\install folder\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\install folder\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+C:\install folder\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb
