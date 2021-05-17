@@ -1,0 +1,7 @@
+\\ctec\student\Work\C# 2019\Исходники\Tigers\bin\Debug\Classes.exe.config
+\\ctec\student\Work\C# 2019\Исходники\Tigers\bin\Debug\Classes.exe
+\\ctec\student\Work\C# 2019\Исходники\Tigers\bin\Debug\Classes.pdb
+\\ctec\student\Work\C# 2019\Исходники\Tigers\obj\Debug\Tigers.csprojAssemblyReference.cache
+\\ctec\student\Work\C# 2019\Исходники\Tigers\obj\Debug\Tigers.csproj.CoreCompileInputs.cache
+\\ctec\student\Work\C# 2019\Исходники\Tigers\obj\Debug\Classes.exe
+\\ctec\student\Work\C# 2019\Исходники\Tigers\obj\Debug\Classes.pdb

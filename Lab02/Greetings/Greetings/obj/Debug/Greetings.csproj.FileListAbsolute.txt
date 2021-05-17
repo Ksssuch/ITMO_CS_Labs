@@ -1,0 +1,7 @@
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\bin\Debug\Greetings.exe.config
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\bin\Debug\Greetings.exe
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\bin\Debug\Greetings.pdb
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.exe
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\Greetings\Greetings\obj\Debug\Greetings.pdb

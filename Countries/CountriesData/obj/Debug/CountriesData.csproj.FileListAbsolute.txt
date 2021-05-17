@@ -1,0 +1,14 @@
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\bin\Debug\CountriesData.exe.config
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\bin\Debug\CountriesData.exe
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\bin\Debug\CountriesData.pdb
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\obj\Debug\CountriesData.csprojAssemblyReference.cache
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\obj\Debug\CountriesData.csproj.CoreCompileInputs.cache
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\obj\Debug\CountriesData.exe
+D:\Преподавание\Информационные системы\Projects\Countries\CountriesData\obj\Debug\CountriesData.pdb
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\bin\Debug\CountriesData.exe.config
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\bin\Debug\CountriesData.exe
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\bin\Debug\CountriesData.pdb
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\obj\Debug\CountriesData.csprojAssemblyReference.cache
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\obj\Debug\CountriesData.csproj.CoreCompileInputs.cache
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\obj\Debug\CountriesData.exe
+\\ctec\student\Work\C# 2019\Исходники\Countries\CountriesData\obj\Debug\CountriesData.pdb

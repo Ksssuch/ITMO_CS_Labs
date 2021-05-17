@@ -1,0 +1,6 @@
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\DivideIt\DivideIt\bin\Debug\DivideIt.exe.config
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\DivideIt\DivideIt\bin\Debug\DivideIt.exe
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\DivideIt\DivideIt\bin\Debug\DivideIt.pdb
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\DivideIt\DivideIt\obj\Debug\DivideIt.csproj.CoreCompileInputs.cache
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\DivideIt\DivideIt\obj\Debug\DivideIt.exe
+D:\Преподавание\C# курс\ИТМО\Labs\Lab02\DivideIt\DivideIt\obj\Debug\DivideIt.pdb

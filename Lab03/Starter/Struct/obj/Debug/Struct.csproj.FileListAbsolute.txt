@@ -1,0 +1,6 @@
+D:\Преподавание\C# курс\ИТМО\Labs\Lab03\Starter\Struct\bin\Debug\Struct.exe.config
+D:\Преподавание\C# курс\ИТМО\Labs\Lab03\Starter\Struct\bin\Debug\Struct.exe
+D:\Преподавание\C# курс\ИТМО\Labs\Lab03\Starter\Struct\bin\Debug\Struct.pdb
+D:\Преподавание\C# курс\ИТМО\Labs\Lab03\Starter\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+D:\Преподавание\C# курс\ИТМО\Labs\Lab03\Starter\Struct\obj\Debug\Struct.exe
+D:\Преподавание\C# курс\ИТМО\Labs\Lab03\Starter\Struct\obj\Debug\Struct.pdb

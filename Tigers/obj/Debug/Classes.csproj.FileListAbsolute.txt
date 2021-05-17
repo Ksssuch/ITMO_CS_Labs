@@ -1,0 +1,7 @@
+C:\Users\otretiakov\source\repos\November2019\Classes\bin\Debug\Classes.exe.config
+C:\Users\otretiakov\source\repos\November2019\Classes\bin\Debug\Classes.exe
+C:\Users\otretiakov\source\repos\November2019\Classes\bin\Debug\Classes.pdb
+C:\Users\otretiakov\source\repos\November2019\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\otretiakov\source\repos\November2019\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\otretiakov\source\repos\November2019\Classes\obj\Debug\Classes.exe
+C:\Users\otretiakov\source\repos\November2019\Classes\obj\Debug\Classes.pdb

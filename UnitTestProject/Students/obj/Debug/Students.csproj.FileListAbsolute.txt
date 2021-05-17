@@ -1,0 +1,7 @@
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\bin\Debug\Students.exe.config
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\bin\Debug\Students.exe
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\bin\Debug\Students.pdb
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\obj\Debug\Students.exe
+C:\Users\otretiakov\source\repos\UnitTestProject\Students\obj\Debug\Students.pdb

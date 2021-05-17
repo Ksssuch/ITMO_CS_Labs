@@ -1,0 +1,10 @@
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\bin\Debug\ColourSyntaxApp.exe
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\bin\Debug\ColourSyntaxApp.pdb
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\bin\Debug\CSharpTokenizer.dll
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntaxApp.csprojAssemblyReference.cache
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntax.ColorSyntaxApp.resources
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntaxApp.csproj.GenerateResource.cache
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntaxApp.csproj.CoreCompileInputs.cache
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntaxApp.csproj.CopyComplete
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntaxApp.exe
+D:\Преподавание\C# курс\ИТМО\Исходники\Lab10\COLOURSYNTAXAPP\obj\Debug\ColourSyntaxApp.pdb

@@ -1,0 +1,786 @@
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ad.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ae.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\af.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ag.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ai.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\al.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\am.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\an.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ao.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\aq.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ar.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\as.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\at.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\au.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\aw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ax.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\az.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ba.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bb.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bd.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\be.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bh.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bi.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bj.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bo.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bq.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\br.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bs.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bv.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\by.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\bz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ca.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cd.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ch.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ci.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ck.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\co.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cv.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cx.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cy.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\cz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\de.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\dj.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\dk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\dm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\do.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\dz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ec.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ee.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\eg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\eh.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\er.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\es.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\et.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\fi.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\fj.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\fk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\fm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\fo.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\fr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ga.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gb.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gd.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ge.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gh.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gi.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gp.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gq.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gs.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\gy.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\hk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\hm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\hn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\hr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ht.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\hu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\id.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ie.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\il.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\im.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\in.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\io.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\iq.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ir.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\is.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\it.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\je.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\jm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\jo.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\jp.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ke.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kh.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ki.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\km.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kp.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ky.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\kz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\la.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lb.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\li.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ls.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\lv.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ly.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ma.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\md.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\me.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mh.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ml.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mo.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mp.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mq.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ms.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mv.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mx.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\my.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\mz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\na.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\nc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ne.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\nf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ng.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ni.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\nl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\no.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\np.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\nr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\nu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\nz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\om.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pa.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pe.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ph.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ps.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\pw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\py.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\qa.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\re.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ro.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\rs.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ru.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\rw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sa.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sb.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sd.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\se.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sh.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\si.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sj.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\so.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ss.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\st.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sv.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sx.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sy.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\sz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\td.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\th.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tj.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tl.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\to.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tr.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tv.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\tz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ua.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ug.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\um.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\us.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\uy.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\uz.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\va.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\vc.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ve.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\vg.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\vi.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\vn.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\vu.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\wf.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ws.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\xk.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\ye.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\yt.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\za.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\zm.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Flags\zw.png
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Countries.exe.config
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Countries.exe
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\bin\Debug\Countries.pdb
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\CountriesForms.csprojAssemblyReference.cache
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\Countries.Form1.resources
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\Countries.Properties.Resources.resources
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\CountriesForms.csproj.GenerateResource.cache
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\CountriesForms.csproj.CoreCompileInputs.cache
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\Countries.exe
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\Countries.pdb
+D:\Преподавание\Информационные системы\Projects\Countries\Countries\obj\Debug\Countries.CountryForm.resources
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ad.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ae.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\af.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ag.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ai.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\al.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\am.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\an.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ao.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\aq.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ar.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\as.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\at.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\au.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\aw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ax.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\az.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ba.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bb.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bd.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\be.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bh.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bi.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bj.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bo.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bq.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\br.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bs.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bv.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\by.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\bz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ca.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cd.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ch.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ci.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ck.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\co.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cv.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cx.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cy.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\cz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\de.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\dj.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\dk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\dm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\do.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\dz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ec.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ee.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\eg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\eh.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\er.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\es.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\et.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\fi.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\fj.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\fk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\fm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\fo.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\fr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ga.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gb.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gd.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ge.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gh.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gi.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gp.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gq.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gs.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\gy.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\hk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\hm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\hn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\hr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ht.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\hu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\id.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ie.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\il.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\im.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\in.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\io.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\iq.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ir.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\is.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\it.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\je.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\jm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\jo.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\jp.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ke.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kh.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ki.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\km.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kp.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ky.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\kz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\la.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lb.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\li.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ls.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\lv.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ly.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ma.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\md.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\me.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mh.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ml.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mo.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mp.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mq.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ms.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mv.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mx.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\my.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\mz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\na.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\nc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ne.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\nf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ng.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ni.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\nl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\no.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\np.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\nr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\nu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\nz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\om.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pa.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pe.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ph.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ps.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\pw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\py.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\qa.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\re.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ro.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\rs.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ru.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\rw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sa.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sb.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sd.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\se.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sh.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\si.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sj.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\so.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ss.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\st.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sv.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sx.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sy.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\sz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\td.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\th.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tj.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tl.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\to.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tr.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tv.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\tz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ua.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ug.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\um.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\us.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\uy.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\uz.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\va.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\vc.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ve.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\vg.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\vi.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\vn.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\vu.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\wf.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ws.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\xk.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\ye.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\yt.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\za.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\zm.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Flags\zw.png
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Countries.exe.config
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Countries.exe
+C:\Users\o.tretyakov\Documents\Countries\Countries\bin\Debug\Countries.pdb
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\CountriesForms.csprojAssemblyReference.cache
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\Countries.CountryForm.resources
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\Countries.Form1.resources
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\Countries.Properties.Resources.resources
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\CountriesForms.csproj.GenerateResource.cache
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\CountriesForms.csproj.CoreCompileInputs.cache
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\Countries.exe
+C:\Users\o.tretyakov\Documents\Countries\Countries\obj\Debug\Countries.pdb
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ad.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ae.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\af.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ag.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ai.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\al.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\am.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\an.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ao.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\aq.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ar.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\as.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\at.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\au.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\aw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ax.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\az.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ba.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bb.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bd.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\be.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bh.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bi.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bj.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bo.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bq.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\br.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bs.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bv.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\by.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\bz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ca.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cd.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ch.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ci.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ck.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\co.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cv.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cx.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cy.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\cz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\de.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\dj.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\dk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\dm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\do.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\dz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ec.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ee.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\eg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\eh.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\er.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\es.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\et.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\fi.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\fj.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\fk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\fm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\fo.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\fr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ga.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gb.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gd.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ge.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gh.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gi.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gp.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gq.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gs.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\gy.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\hk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\hm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\hn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\hr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ht.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\hu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\id.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ie.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\il.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\im.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\in.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\io.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\iq.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ir.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\is.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\it.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\je.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\jm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\jo.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\jp.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ke.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kh.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ki.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\km.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kp.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ky.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\kz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\la.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lb.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\li.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ls.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\lv.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ly.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ma.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\md.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\me.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mh.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ml.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mo.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mp.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mq.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ms.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mv.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mx.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\my.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\mz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\na.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\nc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ne.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\nf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ng.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ni.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\nl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\no.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\np.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\nr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\nu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\nz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\om.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pa.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pe.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ph.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ps.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\pw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\py.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\qa.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\re.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ro.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\rs.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ru.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\rw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sa.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sb.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sd.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\se.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sh.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\si.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sj.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\so.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ss.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\st.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sv.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sx.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sy.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\sz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\td.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\th.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tj.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tl.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\to.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tr.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tv.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\tz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ua.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ug.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\um.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\us.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\uy.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\uz.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\va.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\vc.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ve.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\vg.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\vi.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\vn.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\vu.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\wf.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ws.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\xk.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\ye.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\yt.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\za.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\zm.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Flags\zw.png
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Countries.exe.config
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Countries.exe
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\bin\Debug\Countries.pdb
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\CountriesForms.csprojAssemblyReference.cache
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\Countries.CountryForm.resources
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\Countries.Form1.resources
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\Countries.Properties.Resources.resources
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\CountriesForms.csproj.GenerateResource.cache
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\CountriesForms.csproj.CoreCompileInputs.cache
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\Countries.exe
+\\ctec\student\Work\C# 2019\Исходники\Countries\Countries\obj\Debug\Countries.pdb

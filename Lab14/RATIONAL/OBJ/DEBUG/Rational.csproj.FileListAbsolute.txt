@@ -1,0 +1,2 @@
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB14\STARTER\RATIONAL\obj\Debug\Rational.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\Labs_2008\LAB14\STARTER\RATIONAL\obj\Debug\Rational.pdb
